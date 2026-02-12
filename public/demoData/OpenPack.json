@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "errorCode": 0,
+    "errorDescription": null,
+    "data": {
+        "id": 151,
+        "userCards": [
+            {
+                "id": 1782,
+                "identifier": 56,
+                "resource": "https://bluewebsites.s3.us-west-2.amazonaws.com/PuntosFutbol/Album/Stickers/56.webp",
+                "token": 5,
+                "type": "Normal",
+                "inAlbum": false,
+                "packId": 179
+            },
+            {
+                "id": 1783,
+                "identifier": 21,
+                "resource": "https://bluewebsites.s3.us-west-2.amazonaws.com/PuntosFutbol/Album/Stickers/21.webp",
+                "token": 5,
+                "type": "Normal",
+                "inAlbum": false,
+                "packId": 179
+            },
+            {
+                "id": 1784,
+                "identifier": 97,
+                "resource": "https://bluewebsites.s3.us-west-2.amazonaws.com/PuntosFutbol/Album/Stickers/97.webp",
+                "token": 5,
+                "type": "Normal",
+                "inAlbum": false,
+                "packId": 179
+            },
+            {
+                "id": 1785,
+                "identifier": 357,
+                "resource": "https://bluewebsites.s3.us-west-2.amazonaws.com/PuntosFutbol/Album/Stickers/357.webp",
+                "token": 5,
+                "type": "Normal",
+                "inAlbum": false,
+                "packId": 179
+            },
+            {
+                "id": 1786,
+                "identifier": 213,
+                "resource": "https://bluewebsites.s3.us-west-2.amazonaws.com/PuntosFutbol/Album/Stickers/213.webp",
+                "token": 5,
+                "type": "Normal",
+                "inAlbum": false,
+                "packId": 179
+            }
+        ]
+    }
+}
